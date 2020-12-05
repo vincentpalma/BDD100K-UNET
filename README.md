@@ -5,4 +5,4 @@ Based on this tutorial : [Creating a Very Simple U-Net Model with PyTorch for Se
 
 Because I didn't get good results after training the model for a while, I chose to opt for a more efficient segmentation model.
 
-See [this](https://github.com/vincentpalma/Efficient-Segmentation-Networks) repository
+(See [this](https://github.com/vincentpalma/Efficient-Segmentation-Networks) repository)
